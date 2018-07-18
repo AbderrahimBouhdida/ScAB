@@ -10,6 +10,8 @@ An autonomous access control system with the IoT concept on a Raspberry Pi that 
 - PiCamera
 - RPi.GPIO
 
+Download  ![*shape_predictor_68_face_landmarks.dat*](https://osdn.net/projects/sfnet_dclib/downloads/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/)and put it inside the Data folder 
+
 ## Description
 
 The system has 3 interfaces:
