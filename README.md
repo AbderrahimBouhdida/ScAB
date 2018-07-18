@@ -14,11 +14,11 @@ An autonomous access control system with the IoT concept on a Raspberry Pi that 
 
 The system has 3 interfaces:
 - Administrator interface: an interface that is used to manage the members to allow and to see the log of use
-  ![Admin](https://github.com/AbderrahimBouhdida/ScAB/blob/master/sc/admin.jpg)
+  ![Admin](https://github.com/AbderrahimBouhdida/ScAB/tree/master/sc/admin.jpg)
 
 - user interface: this is the main interface that allows the recognition and identification of members
-  ![user](https://github.com/AbderrahimBouhdida/ScAB/blob/master/sc/web.jpg)
+  ![user](https://github.com/AbderrahimBouhdida/ScAB/tree/master/sc/web.jpg)
   
 - Web interface: a website that allows the administrator to view the system status and usage log from any location
-  ![Web](https://github.com/AbderrahimBouhdida/ScAB/blob/master/sc/web1.jpg)
-  ![Web](https://github.com/AbderrahimBouhdida/ScAB/blob/master/sc/web2.jpg)
+  ![Web](https://github.com/AbderrahimBouhdida/ScAB/tree/master/sc/web1.jpg)
+  ![Web](https://github.com/AbderrahimBouhdida/ScAB/tree/master/sc/web2.jpg)
